@@ -1,6 +1,6 @@
 function main() {
 
-    // Only change coode below this line
+    // Only change code below this line
     var x = 10;
     var y = x;
     return [x, y];
@@ -8,4 +8,4 @@ function main() {
 }
 
 console.log(main());
-module.export = main;
+module.exports = main;

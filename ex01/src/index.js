@@ -8,4 +8,4 @@ function main() {
 }
 
 main();
-module.expert = main;
+module.exports = main;
